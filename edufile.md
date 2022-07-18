@@ -15,4 +15,3 @@ git checkout [hexcode_commit] - переключиться на коммит
 git checkout [name_branch] --force - принудительный возврат к последнему актуальному коммиту текущей ветки
 git merge [branch_name] - слияние ветки в текущую
 git merge --abort отмена сливяния при конфликте
-++
