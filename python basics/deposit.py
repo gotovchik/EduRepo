@@ -8,7 +8,7 @@ yearCount = int(input())
 
 for year in range(1, yearCount+1):
 	deposit = deposit + (deposit * percent / 100)	
-	print('Ваша сумма по вкладу на ',year, ' год(а)/лет: ', round(deposit), 'рублей')
+	print('Ваша сумма по вкладу на ',year, ' год равна: ', round(deposit), 'рублей')
 
 
 
