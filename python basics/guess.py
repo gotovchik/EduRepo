@@ -18,7 +18,7 @@ def guess_func(max_try, answer, user_answer):
 
 
 
-""" def guess_func(max_try, answer, user_answer):
+""" def guess_func(max_try, answer, user_answer):           не доработанная функция
     while max_try != 0:
         while user_answer != answer:
             if user_answer > answer:
